@@ -1,4 +1,4 @@
-#HEALTH TRACKER
+# Health Tracker 🚀
 
 A react-based application designed to help user monitor and improve their daily haelthy activites. The **Health Tracker** provides tool for tracking physical activites ,calorie intake, and sleep patterns, offering valuable insights to maintain a balanced and healthy lifestyle.
 
