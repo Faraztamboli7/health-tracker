@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;;;;AAOE","sources":["src/styles.css"],"sourcesContent":["body {\r\n    font-family: Arial, sans-serif;\r\n    background-color: #f5f5f5;\r\n    margin: 0;\r\n    padding: 0;\r\n  }\r\n  \r\n  h2 {\r\n    color: #6200ea;\r\n  }\r\n  "],"names":[],"version":3,"file":"index.c41b5a0e.css.map","sourceRoot":"/__parcel_source_root/"}
