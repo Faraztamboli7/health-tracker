@@ -46,12 +46,15 @@ Follow these steps to run the Health Tracker on your local machine:
      git clone https://github.com/YourUsername/health-tracker.git
 
 2. **navigate to the project directory**
+   ```bash
     cd health-tracker
 
 3. **Install Dependencies**
+    ```bash
     npm install
 
 4. **Start the Development Server**
+    ```bash
     npm start
 
 5. **Open your browser and go to http://localhost:3000**
