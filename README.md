@@ -56,6 +56,8 @@ Follow these steps to run the Health Tracker on your local machine:
 4. **Start the Development Server**
     ```bash
     npm start
+    and
+    run dev if needed 
 
 5. **Open your browser and go to http://localhost:3000**
 
